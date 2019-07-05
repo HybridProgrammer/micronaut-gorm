@@ -5,7 +5,6 @@
 `./gradlew run`
 
 ## Play
-`
-curl -v http://localhost:8080/book/create
-curl -v http://localhost:8080/book/
-`
+`curl -v http://localhost:8080/book/create`
+
+`curl -v http://localhost:8080/book/`
